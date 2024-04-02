@@ -1,6 +1,7 @@
 # 👑 Malik Johnson
 
-
+<p align="center">
+    Malik Johnson
 <p align="center">
 <a href="https://github.com/MalikXj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20seeking%20knowledge%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
