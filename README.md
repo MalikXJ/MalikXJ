@@ -4,14 +4,30 @@
 
 As a Turkish-American full-stack developer, I'm driven by a dual heritage and a singular passion: to shape the digital landscape in my own image. With each project, I embark on a journey of meticulous planning and creative design, laying the groundwork for innovative solutions to real-world problems. From the first line of code to the final deployment, I blend technical expertise with cultural insight to craft digital experiences that resonate with audiences worldwide, advancing the frontier of technology step by step.
 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="left">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Linkdedin" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="[/](https://www.linkedin.com/in/malikxjohnson/)DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+---
 👨🏽‍💻 Software Engineer sharing my journey and learnings in tech <br>
 👨🏽‍🎓 Studied Computer Science<br>
 🌌 Interested in Quantum Computing <br>
 🌺 Invested in the beauty of life <br>
 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malik.x.j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikxjohnson) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MalikXJohnson_) 
+
 
 # 💻 Languages and Tools 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
