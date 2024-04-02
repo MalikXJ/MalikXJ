@@ -22,7 +22,7 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 
 
 
-# 💻 Languages and Tools 
+# 🧰 Languages and Tools 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,7 +49,7 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 
 
 <details>
-  <summary><h3> Malik's Coding Jounrney</h3></summary>
+  <summary><h3>🌻Malik's Coding Journey</h3></summary>
   In the labyrinth of life’s trials, I found empowerment and freedom in the most difficult lines of code. My journey, devoid of paternal guidance, was strewn through with many obstacles, yet I persevered, and fulfilled an unyielding spirit.
   As I dove into the realm of software engineering, I discovered a conduit for change, a means to shape my destiny and uplift others. Beyond crafting intricate algorithms, I dedicated myself to aiding those who, like me, bore the weight of
   adversity. Volunteering the skills to empower marginalized communities, bridging the digital divide and fostering hope where it seemed scarce. With each line of code, I not only constructed software but also erected bridges of opportunity,
