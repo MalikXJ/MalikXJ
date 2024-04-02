@@ -1,14 +1,11 @@
 # 👑 Malik Johnson
 
-<p align="center">
-  <a href="https://github.com/MalikXJ">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Malik Johnson" /></a>
-</p>
+
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20seeking%20knowledge%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
  `Digital Craftsman (Developer/Life Enthusiast)` <br>
@@ -16,8 +13,7 @@
 As a Turkish-American full-stack developer, I'm driven by a dual heritage and a singular passion: to shape the digital landscape in my own image. With each project, I embark on a journey of meticulous planning and creative design, laying the groundwork for innovative solutions to real-world problems. From the first line of code to the final deployment, I blend technical expertise with cultural insight to craft digital experiences that resonate with audiences worldwide, advancing the frontier of technology step by step.
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="left">
   <a href="https://www.linkedin.com/in/malikxjohnson/")>
     <img alt="Follow" title="Follow me on Linkdedin" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
