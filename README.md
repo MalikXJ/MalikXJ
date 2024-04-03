@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/MalikXj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20seeking%20knowledge%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20seeking%20knowledge%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> 
 </p>
 
  `Digital Craftsman (Developer/Life Enthusiast)` <br>
@@ -15,9 +15,7 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
   
   <a href="https://github.com/MalikXJ?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MalikXJ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p> 
+ 
 </p>
 
 ---
