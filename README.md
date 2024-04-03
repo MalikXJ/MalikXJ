@@ -12,11 +12,9 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 <!-- Social badges section -->
 
 <p align="left">
-  
   <a href="https://github.com/MalikXJ?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MalikXJ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- 
-</p>
+ </p>
 
 ---
 👨🏽‍💻 Software Engineer sharing my journey and learnings in tech <br>
@@ -50,9 +48,6 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 ![](https://github-readme-stats.vercel.app/api?username=MalikXJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-# 
-
-
 <details>
   <summary><h3>🌻Malik's Coding Journey</h3></summary>
   In the labyrinth of life’s trials, I found empowerment and freedom in the most difficult lines of code. My journey, devoid of paternal guidance, was strewn through with many obstacles, yet I persevered, and fulfilled an unyielding spirit.
@@ -62,5 +57,3 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MalikXJ&icon=9&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
