@@ -1,4 +1,4 @@
-# 👑 Malik Johnson
+# 👑 Malik Johnson 
 
 <p align="center">
 <a href="https://github.com/MalikXj/readme-typing-svg">
