@@ -38,7 +38,6 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=MalikXJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
