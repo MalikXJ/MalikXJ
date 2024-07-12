@@ -18,6 +18,7 @@ As a Turkish-American full-stack developer, I'm driven by a dual heritage and a 
 
 ---
 👨🏽‍💻 Software Engineer sharing my journey and learnings in tech <br>
+👨🏽‍🔬 Quantum Computing ❤️<br> 
 👨🏽‍🎓 Studied Computer Science<br>
 🌺 Invested in the beauty of life <br>
 
